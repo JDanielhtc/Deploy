@@ -1,6 +1,3 @@
-README.md PROFESIONAL – LISTO PARA PEGAR
-
-Copia todo esto en tu README.md (ya incluye el banner):
 
 <div align="center">
 
